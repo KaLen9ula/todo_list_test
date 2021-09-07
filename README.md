@@ -1,5 +1,5 @@
-# todolist
-To run code<br />
+# To-Do List App
+To run code use next commands:<br />
 1)
   python manage.py makemigrations<br />
 2)
